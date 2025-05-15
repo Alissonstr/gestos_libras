@@ -1,5 +1,12 @@
+myenv/
 venv/
 __pycache__/
-*.pyc
-data/backups/
-myenv/
+*.py[cod]
+*.pyd
+*.dll
+*.so
+*.log
+.DS_Store
+*.swp
+.idea/
+.vscode/
